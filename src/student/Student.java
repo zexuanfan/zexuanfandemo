@@ -17,7 +17,7 @@ public class Student {
         Student s=new Student();
         Student[] list=new Student[5];
 //        list[0].id=10;
-//        list[0].name="Megha";
+      list[0].name="Megha";
         Scanner in=new Scanner(System.in);
         
         for(int i=0;i<=list.length-1;i++)
